@@ -6,7 +6,7 @@ metadata:
 spec:
   destination:
     namespace: default
-    server: https://kubernetes.default.svc
+    server: https://apps.cluster-e914.dynamic.opentlc.com:6443
   project: default
   source:
     directory:
